@@ -1,4 +1,4 @@
-package com.zlykernel.args;
+package com.zlykernel.tdd.args;
 
 class ArgsTest {
     /**
